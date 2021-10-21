@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+}
+
+img {
+    border-radius: 50%;
+    width: 20%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color: yellow;
+    text-align: center;
+    border-radius: 1px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer {
+    background-color: yellow;
+    text-align: center;
+    border-radius: 1px;
+    border-width: 1px;
+    border-style: solid;
+}
